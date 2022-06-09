@@ -1,3 +1,13 @@
+### devop
+
+* update packages [#3903](https://github.com/MyEtherWallet/MyEtherWallet/pull/3903)
+
+### fix
+
+* * Added check for swap call [#3846](https://github.com/MyEtherWallet/MyEtherWallet/pull/3846)
+* * fix eth blocks remove tab arrows [#3860](https://github.com/MyEtherWallet/MyEtherWallet/pull/3860)
+* * NumberFormat currencyDisplay 'narrowSymbol' [#3885](https://github.com/MyEtherWallet/MyEtherWallet/pull/3885)
+
 ### Release v6.5.6
 
 ### ui
